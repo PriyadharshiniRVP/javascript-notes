@@ -93,7 +93,7 @@ const total = nums.reduce((sum,n) => sum+n ,0);
 console.log(total);
 
 
-// Note - we can use this for a react world puprosse
+// Note - we can use this for a real world puprosse
 const products = [
     {
         name : "bun" , price : 20
