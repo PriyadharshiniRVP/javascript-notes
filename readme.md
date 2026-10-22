@@ -10,7 +10,7 @@ My personal notes and practice code while learning JavaScript from scratch.
 | 1 | Variables, Types & Coercion | `lesson1.js` |
 | 2 | Functions, Arrow Functions & Closures | `lesson2.js` |
 | 3 | Arrays Deep Dive (`map`, `filter`, `reduce`) | `lesson3.js` |
-| 4 | Objects, Destructuring & Spread | *(coming soon)* |
+| 4 | Objects, Destructuring & Spread | `lesson4.js` |
 
 ##  How to Run
 
